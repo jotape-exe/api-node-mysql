@@ -7,4 +7,4 @@
 
 ### Detalhes adicionais
 
-* Para usar o comando `npm start` na porta desejada voce deve editar o arquivo `package.json` e modificar o seguinte trecho de código: `"start": "nodemon ./app.js(caminho do seu arquivo principal) localhost(host da sua api) 3000(porta em que você ira subir a API)"`
+* Para usar o comando `npm start` na porta desejada, você deve editar o arquivo `package.json` e modificar o seguinte trecho de código: `"start": "nodemon ./app.js(caminho do seu arquivo principal) localhost(host da sua api) 3000(porta em que você ira subir a API)"`
